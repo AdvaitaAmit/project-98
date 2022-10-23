@@ -1,0 +1,18 @@
+#h1{
+    font-family: 'Playfair Display', serif;
+}
+
+body{
+    background-color:ivory;
+}
+
+#btn{
+    background-color:rgb(160, 79, 41);
+    border-radius: 15%;
+    border-color: chocolate;
+    color: white;
+    font-family: 'EB Garamond', serif;
+    font-size: large;
+}
+
+hr { background-color: brown; height: 1px; border: 0; }
